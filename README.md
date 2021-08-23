@@ -5,6 +5,13 @@
 
 <br>
 
+
+
+![ 1 ](https://raw.githubusercontent.com/Shivshreyas/I3-WM_BersArch/main/banner.png)
+
+<br>
+
+
 ### **Home + neofetch**
 
 ![ 1 ](https://raw.githubusercontent.com/Shivshreyas/I3-WM_BersArch/main/Screenshots/1.png)
