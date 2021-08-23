@@ -1,0 +1,37 @@
+ndow.menuBarVisibility": "toggle"
+  "workbench.iconTheme": "vscode-icons",
+    "gitlens.advanced.messages": {
+	        "suppressGitMissingWarning": true
+		  },
+		    "tabnine.experimentalAutoImports": true,
+		      "liveServer.settings.donotShowInfoMsg": true,
+		        "workbench.editorAssociations": {
+				    "*.ipynb": "jupyter.notebook.ipynb"
+				      },
+				        "editor.fontFamily": "Fira Code",
+					  "editor.defaultFormatter": "esbenp.prettier-vscode",
+					    "editor.formatOnSave": true,
+					      "diffEditor.ignoreTrimWhitespace": false,
+					        "editor.formatOnPaste": true,
+						  "editor.fontLigatures": true,
+						    "window.zoomLevel": 1,
+						      "security.workspace.trust.untrustedFiles": "open",
+						        "workbench.colorTheme": "Cobalt2",
+							  "vsicons.dontShowNewVersionMessage": true,
+							    "workbench.colorCustomizations": {
+
+
+								        "editor.background": "#030123"
+									    "activityBar.background": "#030123"
+									        "sideBar.background": "#030123"
+										    "sideBarSectionHeader.background": "#0d084b"
+										        "editorGroupHeader.noTabsBackground": "#030123"
+											    "editorGroupHeader.tabsBackground": "#030123"
+											        "tab.inactiveBackground": "#030123"
+												    "tab.activeBackground": "#030123"
+												        "list.inactiveSelectionBackground": "#030123"
+													    "statusBar.background": "#030123"
+													        
+													      }
+													      }
+
